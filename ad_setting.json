@@ -1,12 +1,12 @@
 {
   "ad_setting": {
     "is_intra_show": true,
-    "intra_ad_id": "ca-app-pub-3940256099942544/1033173712",
-    "banner_ad_id": "ca-app-pub-3940256099942544/6300978111",
-    "open_ad_id": "ca-app-pub-3940256099942544/9257395921",
-    "native_ad_id": "ca-app-pub-3940256099942544/2247696110",
-    "rectangle_ad_id": "ca-app-pub-3940256099942544/2247696110",
-    "reward_ad_id": "ca-app-pub-3940256099942544/5224354917",
+    "intra_ad_id": "/21753324030,22829501112/com.teluguringtone.telugusong.teluguloveringtone.telugubgm_Interstitial  ",
+    "banner_ad_id": "/21753324030,22829501112/com.teluguringtone.telugusong.teluguloveringtone.telugubgm_Banner",
+    "open_ad_id": "/21753324030,22829501112/com.teluguringtone.telugusong.teluguloveringtone.telugubgm_AppOpen",
+    "native_ad_id": "/21753324030,22829501112/com.teluguringtone.telugusong.teluguloveringtone.telugubgm_Native",
+    "rectangle_ad_id": "/21753324030,22829501112/com.teluguringtone.telugusong.teluguloveringtone.telugubgm_Rectangle",
+    "reward_ad_id": "/21753324030,22829501112/com.teluguringtone.telugusong.teluguloveringtone.telugubgm_Rewarded",
     "no_of_click_intra": 1
   }
 }
